@@ -2,3 +2,7 @@ name = "GenStheno"
 uuid = "8ea08092-033b-471e-9c05-a0fb14ea70c9"
 authors = ["McCoy Becker <mccoybecker@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Gen = "ea4f424c-a589-11e8-07c0-fd5c91b9da4a"
+Stheno = "8188c328-b5d6-583d-959b-9690869a5511"
