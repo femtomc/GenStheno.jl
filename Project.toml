@@ -1,0 +1,4 @@
+name = "GenStheno"
+uuid = "8ea08092-033b-471e-9c05-a0fb14ea70c9"
+authors = ["McCoy Becker <mccoybecker@gmail.com>"]
+version = "0.1.0"
