@@ -1,6 +1,6 @@
 module KernelStructureInference
 
-include("../src/GenStheno.jl")
+include("../../src/GenStheno.jl")
 using .GenStheno
 using Gen
 
